@@ -25,8 +25,6 @@ public class ItemService {
 		return item;
 		
 	}
-	
-	
 	@Autowired
 	private DiscoveryClient discoveryClient;
 
