@@ -13,7 +13,7 @@ import org.springframework.web.client.RestTemplate;
 import com.nbs.pojo.Item;
 @Service
 public class ItemService {
-	//test
+
 	@Value("${item.url}")
 	private String itemUrl;
 	
